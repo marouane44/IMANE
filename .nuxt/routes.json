@@ -3,36 +3,42 @@
     "name": "cart",
     "path": "/cart",
     "component": "C:\\\\Users\\\\marwa\\\\Desktop\\\\police_dobat\\\\imane_wib\\\\apisful-nuxtjs-ecommerce-main_2\\\\apisful-nuxtjs-ecommerce-main\\\\pages\\\\cart.vue",
-    "chunkName": "pages/cart"
+    "chunkName": "pages/cart",
+    "_name": "_75d8cd22"
   },
   {
     "name": "categories",
     "path": "/categories",
     "component": "C:\\\\Users\\\\marwa\\\\Desktop\\\\police_dobat\\\\imane_wib\\\\apisful-nuxtjs-ecommerce-main_2\\\\apisful-nuxtjs-ecommerce-main\\\\pages\\\\categories\\\\index.vue",
-    "chunkName": "pages/categories/index"
+    "chunkName": "pages/categories/index",
+    "_name": "_6974c424"
   },
   {
     "name": "products",
     "path": "/products",
     "component": "C:\\\\Users\\\\marwa\\\\Desktop\\\\police_dobat\\\\imane_wib\\\\apisful-nuxtjs-ecommerce-main_2\\\\apisful-nuxtjs-ecommerce-main\\\\pages\\\\products\\\\index.vue",
-    "chunkName": "pages/products/index"
+    "chunkName": "pages/products/index",
+    "_name": "_7063195c"
   },
   {
     "name": "categories-category",
     "path": "/categories/:category",
     "component": "C:\\\\Users\\\\marwa\\\\Desktop\\\\police_dobat\\\\imane_wib\\\\apisful-nuxtjs-ecommerce-main_2\\\\apisful-nuxtjs-ecommerce-main\\\\pages\\\\categories\\\\_category.vue",
-    "chunkName": "pages/categories/_category"
+    "chunkName": "pages/categories/_category",
+    "_name": "_1dbb41a2"
   },
   {
     "name": "products-product",
     "path": "/products/:product",
     "component": "C:\\\\Users\\\\marwa\\\\Desktop\\\\police_dobat\\\\imane_wib\\\\apisful-nuxtjs-ecommerce-main_2\\\\apisful-nuxtjs-ecommerce-main\\\\pages\\\\products\\\\_product.vue",
-    "chunkName": "pages/products/_product"
+    "chunkName": "pages/products/_product",
+    "_name": "_0d7f1a16"
   },
   {
     "name": "index",
     "path": "/",
     "component": "C:\\\\Users\\\\marwa\\\\Desktop\\\\police_dobat\\\\imane_wib\\\\apisful-nuxtjs-ecommerce-main_2\\\\apisful-nuxtjs-ecommerce-main\\\\pages\\\\index.vue",
-    "chunkName": "pages/index"
+    "chunkName": "pages/index",
+    "_name": "_0b0ce040"
   }
 ]
